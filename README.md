@@ -1,5 +1,6 @@
 # Information-Retrival-Homework-1
-This repository contains code and results of evaluation of different runs, obtained using Terrier and different retrieval models.
+Questa repository contiene il materiale per l'homework 1 del corso "Reperimento dell'informazione", tenuto presso l'Università degli Studi di Padova (docenti: Maristella Agosti, Gianmaria Silvello).
 
-I file di testo presenti nella cartella principale sono i quattro risultati diversi della valutazione (eseguita con trec_eval) delle quattro run prodotte in precedenza con l'uso di Terrier (a seconda delle richieste le run sono state create con l'utilizzo di Porter stemmer e/o rimozione delle stopword e con i modelli BM25 o TF-IDF). Le run si trovano all'interno della cartella results.
-All'interno della cartella plot sono disponibili i diversi grafici ottenuti dall'analisi delle misure estratte (Average Precision, Precision at 10 e Precision at Recall Base).
+In particolare, nella direcotry "results" sono presenti i quattro file delle run (prodotte con l'uso di Terrier v. 4.4), nella directory principale sono presenti i quattro file contenenti i risultati della valutazione delle run, eseguita tramite trec_eval, il Jupyter notebook scritto per l'estrazione delle diverse misure (Average Precision, Precision at 10 e Precision at Recall Base) e per i test statistici condotti e la relazione in cui viene spiegato il lavoro svolto. Infine, nella directory "plot" sono presenti i grafici ottenuti.
+
+Il lavoro è stato diluito nell'arco di circa un mese, per poi essere revisionato una volta finito il corso, avendo acquisito maggiori competenze.
